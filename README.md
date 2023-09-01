@@ -1,4 +1,4 @@
-# Experiencing Co-Creativity: The Practice and Evaluation of Writing Reality Show Scripts with GPT-4 by Professionals
+# Experiencing Co-Creativity: The Practice and Evaluation of Writing Reality Show Scripts with ChatGPT-3.5 by Professionals
 
 **Objectives**
 
