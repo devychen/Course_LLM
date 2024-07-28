@@ -15,3 +15,7 @@ To elaborate, this project seeks to address the following questions:
 2) How effective and creative can large language models be?
 3) Recommendations for user experiences for the future developments. 
 
+
+
+----
+Course web page [here](https://cogsciprag.github.io/LLM-implications/)
